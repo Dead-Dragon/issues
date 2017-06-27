@@ -1,2 +1,2 @@
-# Example
-Example Repo for Broke Protocol Errors And Suggestions
+# Bugs & Suggestions
+Repo for Broke Protocol Errors And Suggestions, Visit 'Issues' to submit a bug or suggestion

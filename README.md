@@ -1,8 +1,18 @@
-# Bugs & Suggestions & Wiki
-Repo for Broke Protocol Error\Suggestions, and Wiki.
-
-Visit the 'Issues' tab to submit a bug or suggestion.
-
-Visit the 'Wiki' tab to view or contribute.
-
-Broke Protocol is not free anymore. You can buy it for $4.99 using the Steam platform; http://store.steampowered.com/app/696370/BROKE_PROTOCOL_Online_City_RPG/
+<p align="center">
+    <img src="https://brokeprotocol.com/wp-content/uploads/Title.jpg"
+        height="130">
+</p>
+<p align="center">
+    <a href="http://store.steampowered.com/app/696370/BROKE_PROTOCOL_Online_City_RPG/">
+        <img src="https://img.shields.io/badge/Steam-$4.99USD-7289DA.svg"
+            alt="Download the game"></a>
+    <a href="https://github.com/DeathByKorea/BrokeProtocol/issues">
+        <img src="https://img.shields.io/badge/Post-Bugs and Suggestions-7289DA.svg"
+            alt="Bugs and Suggestions"></a>
+    <a href="https://github.com/DeathByKorea/BrokeProtocol/wiki">
+        <img src="https://img.shields.io/badge/Docs-Wiki-7289DA.svg"
+            alt="Read the wiki"></a>
+    <a href="https://discord.gg/HjJCwm5">
+        <img src="https://discordapp.com/api/guilds/312436123278376961/embed.png"
+            alt="Chat on Discord"></a>
+</p>

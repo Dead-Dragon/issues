@@ -9,6 +9,6 @@
         <img src="https://img.shields.io/badge/Post-Bugs and Suggestions-7289DA.svg" alt="Bugs and Suggestions"></a>
     <a href="https://github.com/DeathByKorea/BrokeProtocol/wiki">
         <img src="https://img.shields.io/badge/Docs-Wiki-7289DA.svg" alt="Read the wiki"></a>
-    <a href="https://discord.gg/HjJCwm5">
+    <a href="https://discord.gg/WpdNCDw">
         <img src="https://discordapp.com/api/guilds/312436123278376961/embed.png" alt="Chat on Discord"></a>
 </p>

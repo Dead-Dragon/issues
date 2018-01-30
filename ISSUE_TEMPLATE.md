@@ -1,6 +1,6 @@
 > Put an `[x]` in each box that is applicable before submitting your issue.
 
-- [ ] You have searched the [bug/suggestion tracker](https://github.com/DeathByKorea/BrokeProtocol/search?type=Issues) to ensure there is no similar or duplicate issues.
+- [ ] I have searched the [bug/suggestion tracker](https://github.com/DeathByKorea/BrokeProtocol/search?type=Issues) to ensure there is no similar or duplicate issues.
 - [ ] Bug report
 - [ ] Suggestion
 

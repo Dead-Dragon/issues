@@ -8,7 +8,7 @@
 
 <!-- `(Bug Report Template)` -->
 
-<!-- REMOVE THIS LINE
+<!-- << REMOVE THIS LINE
 
 ### Description:
 

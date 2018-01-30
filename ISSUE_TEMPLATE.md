@@ -10,19 +10,17 @@
 
 <!-- REMOVE THIS LINE
 
-### What is it?:
+### Description:
 
 ### Steps to reproduce:
 
-REMOVE THIS LINE -->
+REMOVE THIS LINE >> -->
 
 
 <!-- `(Suggestion Template)` -->
 
 <!-- << REMOVE THIS LINE
 
-### What is it?:
-
-### What I mean:
+### Description:
 
 REMOVE THIS LINE >> -->
